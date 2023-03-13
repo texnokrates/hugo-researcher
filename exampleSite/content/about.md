@@ -27,7 +27,7 @@ In chronological order:
 
 ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+This is a [link](https://piraattipuolue.fi). Something *italics* and something **bold**.
 
 Here is a table:
 
