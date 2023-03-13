@@ -7,7 +7,7 @@
     <meta name="author" content='{{ .Site.Params.author }}'>
 
     <link href="/fonts.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://uslugi.necada.org/js/bootstrap4/css/bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://uslugi.necada.org/js/bootstrap5/css/bootstrap.min.css" crossorigin="anonymous">
 
     {{ $style := resources.Get "sass/researcher.scss" | resources.ExecuteAsTemplate "sass/researcher.scss" . | toCSS | minify }}
     <link rel="stylesheet" href="{{ $style.RelPermalink }}">
