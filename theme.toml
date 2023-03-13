@@ -8,10 +8,6 @@ homepage = "https://github.com/texnokrates/hugo-researcher"
 min_version = "0.74.3"
 
 [author]
-  name = "Marek Nečada"
-  homepage = "https://necada.org/"
-
-[author]
   name = "Olivier Roques"
   homepage = "https://oroques.dev/"
 
